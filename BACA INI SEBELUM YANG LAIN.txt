@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+UNTUK SEMUA:
+model terakhir yang didapet itu yang namanya "model_91_88_acc.h5"
+itu tetep pakai fine tuning mobilenetv2
+akurasi training = 91%
+akurasi validation = 88%
+akurasi testing = 86%
+
+baguslh ee? jadilah e? wkwk
+---------------------------------------------------------------------------------
+UNTUK CC & MD:
+modelnya sudah di convert ke tflite
+ada dua:
+1. yang namanya "model.tflite" ==> 9 MB (tidak pakai optimization)
+2. yang namanya "model_quant_another.tflite ==> 2MB (pakai optimization)
+
+aku dak tau sih apa bedanya, mungkin kalian paham WKWKWK
+---------------------------------------------------------------------------------
