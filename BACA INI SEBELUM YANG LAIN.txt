@@ -2,9 +2,12 @@
 UNTUK SEMUA:
 model terakhir yang didapet itu yang namanya "model_91_88_acc.h5"
 itu tetep pakai fine tuning mobilenetv2
+
 akurasi training = 91%
 akurasi validation = 88%
 akurasi testing = 86%
+
+jumlah jenis batiknya ada 15 kelas (dikurangi karena ada jenis yang motifnya tidak jelas/tidak ada ciri khasnya)
 
 baguslh ee? jadilah e? wkwk
 ---------------------------------------------------------------------------------
