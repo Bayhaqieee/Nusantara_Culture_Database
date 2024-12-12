@@ -1,14 +1,14 @@
 # Nusantara Culture Dataset
 
-Welcome to the **BudayaKita Database**! This Dataset provide several photos focusing on **Batik**!
+Welcome to the **BudayaKita Database**! This Dataset provide several photos focusing on **Batik**! and also some notebook and training of detection for our Model related to our Product!
 
 ## Dataset Purpose👨‍🔬
 
-This Dataset will be used as our Training and Testing Dataset for our Model related to our Project! 
+This Dataset and Notebook will be used as our Training and Testing for our Model related to our Project! 
 
 ## Project Status
 
-🚧 **Status**: `On Development`
+🚧 **Status**: `Completed`
 
 
 ## Setup
