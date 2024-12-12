@@ -10,19 +10,6 @@ This Dataset will be used as our Training and Testing Dataset for our Model rela
 
 🚧 **Status**: `On Development`
 
-## Features
-
-Here's a list of the dataset gained from several extraction and merging:
-
-- **Batik**
-    - **Batik** A date input widget is used to filter data by a selected date range.
-- **Food**
-    - **Food** A date input widget is used to filter data by a selected date range.
-- **Traditional Weapon**
-    - **Traditional Weapon** A date input widget is used to filter data by a selected date range.
-- **Traditional House**
-    - **Traditional House** A date input widget is used to filter data by a selected date range.
-
 
 ## Data Structures
 
