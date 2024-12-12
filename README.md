@@ -1,6 +1,6 @@
 # Nusantara Culture Dataset
 
-Welcome to the **BudayaKita Database**! This Dataset provide several photos focusing on **Batik**, **Food**, **Traditional Weapon** and **Traditional Housing**!
+Welcome to the **BudayaKita Database**! This Dataset provide several photos focusing on **Batik**!
 
 ## Dataset Purpose👨‍🔬
 
