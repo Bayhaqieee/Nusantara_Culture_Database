@@ -11,9 +11,6 @@ This Dataset will be used as our Training and Testing Dataset for our Model rela
 🚧 **Status**: `On Development`
 
 
-## Data Structures
-
-
 ## Setup
 
 1. Clone the repository:
