@@ -1,15 +1,20 @@
-# Nusantara Culture Dataset
+# Nusantara Batik
 
-Welcome to the **BudayaKita Database**! This Dataset provide several photos focusing on **Batik**! and also some notebook and training of detection for our Model related to our Product!
+Welcome to the **BudayaKita**! This project focuses on building a robust machine learning model for **Batik pattern classification**, , celebrating the rich diversity of **Indonesian Batik**. The dataset includes various Batik images and accompanying notebooks to facilitate training and testing of the model!
+
+---
 
 ## Dataset Purpose👨‍🔬
 
 This Dataset and Notebook will be used as our Training and Testing for our Model related to our Project! 
 
+---
+
 ## Project Status
 
 🚧 **Status**: `Completed`
 
+---
 
 ## Setup
 
@@ -30,3 +35,16 @@ This Dataset and Notebook will be used as our Training and Testing for our Model
     ```bash
     thechosen.ipynb
     ```
+
+---
+
+## Features
+- **Batik Dataset**: A comprehensive dataset containing **2,900 images** of Batik patterns across **15 classes**, sourced from **Kaggle**.
+- **Model Training**: Fine-tuned **MobileNetV2** using **TensorFlow** for high-accuracy Batik pattern classification.
+- **Deployment Ready**: The trained model is converted to **.tflite format** for easy deployment to mobile or cloud platforms.
+
+---
+
+## Results
+- **Model Performance**: The fine-tuned **MobileNetV2** achieved an accuracy of **94%** on the test dataset.
+- **Application**: The model can be integrated into applications for **real-time Batik pattern recognition**.
