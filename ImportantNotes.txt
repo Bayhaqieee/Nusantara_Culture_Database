@@ -1,39 +1,16 @@
 --------------------------------------------------------------------------------
 NOTES:
-The most Effective Method and Model that we found is "model_91_88_acc.h5" 
+The most Effective Method and Model that we found is "model_98_94_acc.h5" 
 Still using FIne Tuning by using mobilenetv2
 
-Training Accuracy = 91%
-Validation Accuracy = 88%
-Testing Accuracy = 86%
+Training Accuracy = 98%
+Testing Accuracy = 94%
 
 It Also Included with 15 Different types of Batik
 ---------------------------------------------------------------------------------
 For Cloud Computing & Mobile Development Purposes:
 The model is already converted to TFLite
 Into two separate file:
-1. "model.tflite" ==> 9 MB (not using optimization)
-2. "model_quant_another.tflite ==> 2MB (using optimization)
----------------------------------------------------------------------------------
-
-Indonesian Version
-
----------------------------------------------------------------------------------
-CATATAN:
-Model terakhir yang didapet itu yang namanya "model_91_88_acc.h5"
-itu tetep pakai fine tuning mobilenetv2
-
-akurasi training = 91%
-akurasi validation = 88%
-akurasi testing = 86%
-
-jumlah jenis batiknya ada 15 kelas (dikurangi karena ada jenis yang motifnya tidak jelas/tidak ada ciri khasnya)
----------------------------------------------------------------------------------
-UNTUK CC & MD:
-modelnya sudah di convert ke tflite
-ada dua:
-1. yang namanya "model.tflite" ==> 9 MB (tidak pakai optimization)
-2. yang namanya "model_quant_another.tflite ==> 2MB (pakai optimization)
-
-aku dak tau sih apa bedanya, mungkin kalian paham WKWKWK
+1. "model(1).tflite" ==> 9 MB (not using optimization)
+2. "model_quant_another(1).tflite ==> 2MB (using optimization)
 ---------------------------------------------------------------------------------
