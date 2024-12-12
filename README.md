@@ -26,3 +26,7 @@ This Dataset will be used as our Training and Testing Dataset for our Model rela
     ```bash
     pip install -r requirements.txt
     ```
+4. Run and Save the model by the name:
+    ```bash
+    thechosen.ipynb
+    ```
