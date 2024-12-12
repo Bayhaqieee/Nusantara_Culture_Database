@@ -22,3 +22,7 @@ This Dataset will be used as our Training and Testing Dataset for our Model rela
     ```bash
     cd dashboard
     ```
+3. Install all related Requirement:
+    ```bash
+    pip install -r requirements.txt
+    ```
